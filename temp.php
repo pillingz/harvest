@@ -1,5 +1,7 @@
 <?php
 
+//aaa
+
 include('config/config.php');
 
 $dbLink = dbConnect();
